@@ -91,6 +91,4 @@ Note: The current model uses synthetic data and may require real hotel data for 
 - Add seasonal decomposition and trend analysis
 - Include external factors like economic indicators
 
-## Live Demo
-The application is deployed and accessible at: https://8501-iyicpjupa74a8gikqq5eq-82d3f405.manusvm.computer
 
